@@ -1,0 +1,1 @@
+cmd_/home/sanath/LDD-1/sanath_LDD/custom_drivers/002_pcd/pcd.ko := arm-linux-gnueabihf-ld -r  -EL  --build-id=sha1  -T scripts/module.lds -o /home/sanath/LDD-1/sanath_LDD/custom_drivers/002_pcd/pcd.ko /home/sanath/LDD-1/sanath_LDD/custom_drivers/002_pcd/pcd.o /home/sanath/LDD-1/sanath_LDD/custom_drivers/002_pcd/pcd.mod.o;  true
